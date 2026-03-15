@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Circle Background -->
+    <path
+        android:fillColor="#2962FF"
+        android:pathData="M54,10A44,44 0 1,1 10,54A44,44 0 0,1 54,10Z"/>
+
+    <!-- I Letter -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,34h8v40h-8z"/>
+
+    <!-- L Letter -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,34h8v32h16v8H58z"/>
+
+    <!-- Checkmark (log completed) -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M36,60l8,8 18,-18"/>
+
+</vector>
